@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  cursor: pointer;
+}
+
+button {
+  padding: 5px 10px;
+  font-size: 30px;
+}
+
+.App__header {
+  height: 65px;
+  background-color: aquamarine;
+}
+
+.App__header nav {
+  padding: 0 20px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  gap: 20px;
+}
